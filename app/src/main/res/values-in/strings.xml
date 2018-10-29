@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Catalog Movie</string>
+    <!--<string name="top_rated">Top_Rated</string>-->
+    <string name="popular">Populer</string>
+    <string name="movie_title">Judul film</string>
+    <string name="top_rating">Peringkat Teratas</string>
+    <string name="cari_film">Cari film</string>
+    <string name="search_hint">Cari Disini</string>
+    <string name="loading">Memuat</string>
+    <string name="tulis_film_yang_dicari">Cari Film Mu Disini</string>
+    <string name="search">Cari</string>
+    <string name="masukkan_nama_film">Cari Film</string>
+    <string name="nama_movie">Nama Film</string>
+    <string name="cari">Cari</string>
+    <string name="title">Judul</string>
+    <string name="description">Penjelasan</string>
+    <string name="date">Tanggal</string>
+    <string name="title_activity_cari">SearchActivity</string>
+    <string name="rating">Peringkat "\n"</string>
+    <string name="release_date">Tanggal Tanyang \n</string>
+
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_detail_movie">DetailMovie</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="detail">Rincian</string>
+    <string name="share">Bagikan</string>
+    <string name="err_load_failed">Gagal Memuat</string>
+    <string name="catalog_movie">Catalog Movie</string>
+    <string name="title_activity_navbar">Navbar</string>
+    <string name="title_activity_up_coming">Akan datang</string>
+    <string name="title_activity_Now_Playing">Sedang Tayang</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="now_playing">Sedang Tanyang</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="tempat_informasi_film_up_to_date">Tempat untuk mencari film paling Up to Date</string>
+    <string name="share_description">Hai guys apa kalian ingin mencari tahu info tentang film terbaru? Yuk Kalian bisa download Aplikasinya disini </string>
+
+</resources>
